@@ -5,7 +5,7 @@
 
 ---
 
-I'm a final-year Computer Engineering student at **Gebze Technical University**, graduating in 2026. I enjoy building things that actually work — from clean backend APIs to machine learning pipelines. My graduation project, **ScamGuard AI**, is a BERTurk-based scam detection system for Turkish conversations that hits 99.6% accuracy across 10 classes. I care about writing readable, well-structured code and learning by doing.
+Computer Engineering student at **Gebze Technical University**. Backend, ML, and full-stack — I like building clean, scalable systems.
 
 Currently open to **junior roles and internships across Turkey and European Countries** 🌍
 
