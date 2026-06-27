@@ -68,8 +68,8 @@ Currently open to **junior roles and internships across Turkey and European Coun
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [ScamGuard AI](https://github.com/fundaaaclk/Social_Engineering_Detection) | Turkish scam detection with BERTurk — 99.6% accuracy, 10 classes, ~49K samples. FastAPI backend + Kotlin Android app | Python · PyTorch · FastAPI · Kotlin |
-| [ScamDetectionRealTime](https://github.com/fundaaaclk/ScamDetectionRealTime) | Native Android app for real-time scam detection with 3 input modes (preset, audio upload, live mic) | Kotlin · Jetpack Compose |
+| [ScamGuard AI](https://github.com/fundaaaclk/Social_Engineering_Detection) | Turkish scam detection v1 — BERT fine-tuned on ~10K samples, binary classification. FastAPI backend + Flutter mobile app | Python · PyTorch · FastAPI · Flutter |
+| [ScamDetectionRealTime](https://github.com/fundaaaclk/ScamDetectionRealTime) | Turkish scam detection v2 — BERTurk fine-tuned on ~49K samples, 99.6% accuracy, 10 classes. FastAPI backend + native Kotlin/Jetpack Compose Android app with 3 input modes | Python · PyTorch · FastAPI · Kotlin |
 | [emotion-aware-movie-recommender](https://github.com/fundaaaclk/emotion-aware-movie-recommender) | Mood-based movie recommendation using Transformer emotion analysis | Python · NLP |
 | [MobileProject](https://github.com/fundaaaclk/MobileProject) | Full-stack team project — Spring Boot backend, Vue.js frontend, Agile/Scrum workflow | Java · Vue.js |
 | [todo-api-dotnet](https://github.com/fundaaaclk/todo-api-dotnet) | RESTful API with .NET following Onion Architecture & DI patterns | C# · .NET |
