@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Funda</h1>
-<h3 align="center">Computer Engineering Student · Backend & AI/ML · Istanbul 🇹🇷</h3>
+<h3 align="center">Computer Engineering Student · full-stack & AI/ML · Istanbul 🇹🇷</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fundaaaclk&label=Profile%20views&color=0e75b6&style=flat" alt="fundaaaclk" />
@@ -81,6 +81,4 @@ Currently open to **junior roles and internships across Europe** 🌍 — I hold
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fundaaaclk&show_icons=true&theme=default&hide_border=true&count_private=true" />
-</p>
+
