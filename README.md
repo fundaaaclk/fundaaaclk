@@ -17,8 +17,8 @@ Currently open to **junior roles and internships across Turkey and European Coun
 
 - 🎓 B.Sc. Computer Engineering @ Gebze Technical University (2021–2026)
 - 🤖 Built **ScamGuard AI** — BERTurk fine-tuned on ~49K Turkish samples, FastAPI backend, Kotlin Android app
-- 💼 Interned @ **Yaz Bilgi Sistemleri** (.NET / ABP Framework) & **Naya Teknoloji** (Java Spring Boot)
-- 🌍 Based in Istanbul 
+- 💼 Intership at **Yaz Bilgi Sistemleri** (.NET / ABP Framework) & **Naya Teknoloji** (Java Spring Boot)
+- 🌍 Based in Istanbul
 - 📫 Reach me at **funda.yosk@gmail.com**
 
 ---
